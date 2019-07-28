@@ -1,9 +1,15 @@
 ---
-title: CV
+layout: page
+title: cv
 ---
 
-# About this project
+This is an about page about this awesome site.
+Hope you love it!
 
-In a word: **Awesome!**
+Reasons:
+- its great.
+- its a test.
 
-See the [Home page](/go-go-ghpages/README.md)
+## Other thoughts
+
+This is great.
