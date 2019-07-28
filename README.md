@@ -1,7 +1,9 @@
+# Heading One
 
-# JASON
 ## Heading Two
+
 ### Heading Three, etc.
+
 Any text with no empty lines between will become a paragraph.
 Leave an empty line between headings and paragraphs.
 Font can be *Italic* or **Bold**.
@@ -28,4 +30,3 @@ A numbered list is created using a number + `.`, like:
 > Block quote.
 
 ----
-
