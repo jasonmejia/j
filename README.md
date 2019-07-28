@@ -1,5 +1,5 @@
 
-# Heading One
+Heading One
 
 ## Heading Two
 
