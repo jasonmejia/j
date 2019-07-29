@@ -7,6 +7,13 @@ Heading One
 ### Heading Three, etc.
 
 Any text with no empty lines between will become a paragraph.
+"Show me your friends and I'll show you your fortune" should be changed to "Show me your network and I'll show you your net worth." 
+
+Make the decisions today, that your future self will thank you for. 
+
+Especially the affirmation, being positive, stopping procrastination.. &... Having a tough time as a kid and possibly being brought up in poverty... Very true... . ... It just makes you tough.. & you develop a killer instinct. 
+
+1. Persevered at his Education..3 attempts,left w Honours. 2.Discipline and Daring..Military Service+Martial Arts. 3. Self Improvement..no apologies . 4. Uncompromising Hard work....... 
 Leave an empty line between headings and paragraphs.
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
