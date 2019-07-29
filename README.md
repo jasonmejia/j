@@ -28,7 +28,7 @@ Code can be highlighted with `backticks`.
 
 ![Jason](WIN_20190715_18_49_52_Pro-small.jpg)
 
- <img src=" (WIN_20190715_18_49_52_Pro-small.jpg )" >
+ 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 Images look similar:
 
