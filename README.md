@@ -2,10 +2,13 @@
 
 Heading One
 
-## Heading Two
+## This is the website of Jason Mejia
 
-### Heading Three, etc.
+### IntroductionHeading Three, etc.
 
+I was born in Brasil. I moved to USA years ago where I have been living since then.
+Right now I live in Oregon. I am Educational Assistant at High School. 
+I have worked in the past in science reserch labs ind different science labs in universities.
 Any text with no empty lines between will become a paragraph.
 "Show me your friends and I'll show you your fortune" should be changed to "Show me your network and I'll show you your net worth." 
 
