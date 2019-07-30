@@ -22,19 +22,10 @@ to know at what point a group of cells start to have life or properties that car
 Those are questions that I want to reply with my research.
 Jason Mejia
 
-Leave an empty line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+
 ![Jason](jason-github-small.jpg)
 
 
-ja
-![Jason](jason-github (2).jpg)
-ja
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-Images look similar:
-
-![alt text here](https://upload.wikimedia.org/wikipedia/commons/4/4b/Focus_ubt.jpeg)
 
 A bullet list is created using `*`, `+`, or `-`, like:
 
