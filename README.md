@@ -24,21 +24,18 @@ Jason Mejia
 
 
 ![Jason](jason-github-small.jpg)
+This is me!
 
 
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
+My interests are 
 
 1. Nanotechnology
 2. Robotics
-6. three
-2. four
+3.Neuroscience
+4.Politics
+5.Rockets
+6.Motorcycles
+
 
 > Block quote.
 
