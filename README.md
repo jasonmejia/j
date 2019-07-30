@@ -27,7 +27,7 @@ Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
 
 ja
-! [Jason](jason-github (2).jpg)
+![Jason](jason-github (2).jpg)
 ja
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 Images look similar:
