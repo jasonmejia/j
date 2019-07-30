@@ -26,7 +26,7 @@ Leave an empty line between headings and paragraphs.
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
 
-![Jason](WIN_20190715_18_49_52_Pro-small.jpg)
+![Jason](WIN_20190715_18_49_52_Pro.jpg)
 
  
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
