@@ -25,6 +25,8 @@ Jason Mejia
 Leave an empty line between headings and paragraphs.
 Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
+![Jason](jason-github-small.jpg)
+
 
 ja
 ![Jason](jason-github (2).jpg)
