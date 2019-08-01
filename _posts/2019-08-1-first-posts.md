@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Post in History
+title: First Post in My Blog
 ---
 
 The year is 2019.
-Tudo esta bem.
-I am blogging now at Knight library.
+The is the 1 of August of 2019.
+I am here on Knight Library at UO
