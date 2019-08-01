@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: CV
 ---
 
 This is an about page about this awesome site.
