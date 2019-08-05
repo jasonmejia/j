@@ -32,10 +32,10 @@ My interests are
 
 1. Nanotechnology
 2. Robotics
-3.Neuroscience
-4.Politics
-5.Rockets
-6.Motorcycles
+3. Neuroscience
+4. Politics
+5. Rockets
+
 
 >Introduction
  Jason Mejia
