@@ -1,4 +1,6 @@
-
+---
+layout=: "page"
+title: TITLE
 
 Jason Mejia
 
