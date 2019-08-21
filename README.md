@@ -1,7 +1,7 @@
 ---
-layout=: "page"
-title: TITLE
-
+layout=:"page"
+title: title
+---
 Jason Mejia
 
 ## This is the website of Jason Mejia
