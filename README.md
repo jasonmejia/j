@@ -37,10 +37,6 @@ My interests are
 5. Rockets
 
 
->Introduction
- Jason Mejia
->
 
-> Block quote.
 
 ----
