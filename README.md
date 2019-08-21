@@ -1,5 +1,5 @@
 ---
-layout=:"page"
+layout=: "page"
 title: title
 ---
 
@@ -37,4 +37,3 @@ My interests are
 
 
 
-----
