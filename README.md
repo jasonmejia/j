@@ -31,7 +31,7 @@ My interests are
 
 1. Nanotechnology
 2. Robotics
-3. Neuroscience
+3. Neuroscience, brain surgery.
 4. Politics
 5. Rockets
 
