@@ -6,4 +6,4 @@ title: 1-Intro
 
 In a word: **Awesome!**
 
-See the [Home page](/go-go-ghpages/README.md)
+
