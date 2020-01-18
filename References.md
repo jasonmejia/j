@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4-References
+title: References
 ---
 
 This is an about page about this awesome site.
