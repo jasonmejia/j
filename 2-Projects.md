@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3-Projects
+title: 2-Projects
 ---
 
 This is an about page about this awesome site.
