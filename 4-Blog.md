@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BLOG
+title:4-Blog
 ---
 
 This is an about page about this awesome site.
