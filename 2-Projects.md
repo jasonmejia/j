@@ -1,17 +1,9 @@
 ---
-layout: page
-title: 2-Projects
+layout: post
+title: My first post of the 2020
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
 
-Reasons:
-
-I am trying to understant how the brain form its thoughts. At what  level  from matter to neurons how does the phenomenon of thought arises?
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+I currently work at Springfield High school. It is school located on Springfield, Oregon.
+I am Bilingual Educational Assistant. I basically teach students that have as primary language Spanish. The majority comes from Central America and Mexico and mostly speak Spanish and some speak native languages like Nautl, Cohbal and others.  It is a very diverse student population some have education and some don't have kind of education.
+Mostly are migrants and refugees.
