@@ -1,8 +1,9 @@
 #Jason Mejia
+#Jason
 
-## This is the website of Jason Mejia
+This is the website of Jason Mejia
 
-### Introduction 
+Introduction 
 
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
