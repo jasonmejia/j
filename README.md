@@ -1,8 +1,5 @@
 Jason Mejia
-
-
 ##This is the website of Jason Mejia
-
 ###Introduction 
 
 I was born in Brasil.
