@@ -1,6 +1,3 @@
-
-## This is the website of Jason Mejia
-
 ### Introduction 
 
 
