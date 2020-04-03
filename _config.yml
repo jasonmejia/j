@@ -1,11 +1,1 @@
-# basic options posso escrever qualquer coisa
-title: JASON MEJIA
-author: Jason Mejia GitHub User
-email: jasonmejia@domain.com
-description: A site for you to get to know me
-twitter_username: jasonjekyllrb
-github_username:  jasonjekyll
-
-# Build settings
-markdown: kramdown
 theme: jekyll-theme-cayman
