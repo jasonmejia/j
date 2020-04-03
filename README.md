@@ -28,7 +28,8 @@ My images
 
 ![](images/jason-github%20(2).jpg)
 
-![](images/WIN_20190715_18_47_48_Pro.jpg)
+![](images/jason-gtihub-thinking.jpg)
+https://github.com/jasonmejia/jasonmejia/blob/master/images/jason-gtihub-thinking.jpg
 This is me!
 
 
